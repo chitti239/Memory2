@@ -10,7 +10,7 @@
 
 ## RAM16K
 
-<img src="/Memory2/RAM16K.png/">
+<img src="/RAM16K.png/">
 
 ## PC
-<img src="/Memory2/PC.png/">
+<img src="/PC.png/">
